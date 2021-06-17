@@ -25,8 +25,8 @@ body {
   padding-top: 1em;
   width: 10em;
   -webkit-flex-item-align: center;
-      -webkit-grid-row-align: center;
-      align-self: center;
+  -webkit-grid-row-align: center;
+  align-self: center;
 }
 .titleLogo {
   margin-right: 10px;
